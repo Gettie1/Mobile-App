@@ -24,7 +24,6 @@ export default function HomeScreen() {
             transition={{ type: "spring", duration: 800 }}
           >
             <View className="items-center w-full max-w-[95%] p-6 bg-gray-800 rounded-3xl border border-gray-700">
-              {/* Profile Image - Responsive sizing */}
               <View className="p-1 mb-4 rounded-full bg-gradient-to-r from-blue-500 to-purple-600">
                 <Image
                   source={require("../assets/images/profile.jpg")}
