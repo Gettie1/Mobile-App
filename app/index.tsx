@@ -139,7 +139,6 @@ export default function HomeScreen() {
           </View>
         </MotiView>
 
-        {/* Footer */}
         <MotiView
           from={{ opacity: 0 }}
           animate={{ opacity: 1 }}
