@@ -118,7 +118,6 @@ export default function HomeScreen() {
               </Link>
             </MotiView>
 
-            {/* Contact Button */}
             <MotiView
               from={{ opacity: 0, translateX: -10 }}
               animate={{ opacity: 1, translateX: 0 }}
